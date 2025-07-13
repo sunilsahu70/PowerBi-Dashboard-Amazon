@@ -19,12 +19,12 @@ A Power BI business intelligence project focused on year-wise sales performance 
 
 # 📈 Dashboard Features
 # 1. 📆 Year-wise Performance Overview
-Dynamic slicer for Year selection
-Sales and unit totals with YoY comparison
+Dynamic slicer for Year selection |
+Sales and unit totals with YoY comparison |
 Trend Bars and area charts
 
 # 2. 🌎 Sales by Market
-Map visualization for region-wise sales
+Map visualization for region-wise sales|
 Bar chart: Sales & Profit by top 10 customers
 
 # 3. 👥 Sales by Customer Segment
