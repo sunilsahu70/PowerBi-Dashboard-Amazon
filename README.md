@@ -39,6 +39,31 @@ Bottom 5 loss-making products with reasons (e.g., discount, category)
 Forecast future sales using Power BI’s forecasting model |
 Based on historical time series data with confidence intervals
 
+# 🔍 Key Insights
+•	The highest revenue-generating year was 2015 with a 26.10% increase over 2014.
+•	Home office  segment grew the fastest, with a  12.03% YoY growth in 2015.
+•	High discounts on Technology products often led to negative profit margins.
+•	The West and East regions consistently outperformed other markets.
+•	Top-selling products are typically in the Office Supplies category, while loss-making items are often from Furniture.
+
+# ✅ Conclusion
+
+This Power BI dashboard demonstrates:
+	Effective time-based trend analysis
+	Use of DAX and forecasting techniques
+	Visual storytelling for business insights
+	Strong data modeling and interactivity
+
+
+
+
+
+
+
+
+
+
+
 
 
 
