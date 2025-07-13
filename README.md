@@ -24,19 +24,19 @@ Sales and unit totals with YoY comparison |
 Trend Bars and area charts
 
 # 2. 🌎 Sales by Market
-Map visualization for region-wise sales|
+Map visualization for region-wise sales |
 Bar chart: Sales & Profit by top 10 customers
 
 # 3. 👥 Sales by Customer Segment
-Segment-wise contribution to total sales and profit
+Segment-wise contribution to total sales and profit |
 Distribution over time and across markets.
 
 # 4. 🏆 Top & Bottom 5 Products (by Sales)
-Top 5 most profitable products per year
+Top 5 most profitable products per year |
 Bottom 5 loss-making products with reasons (e.g., discount, category)
 
 # 5. 📈 Sales Forecast (Projection)
-Forecast future sales using Power BI’s forecasting model
+Forecast future sales using Power BI’s forecasting model |
 Based on historical time series data with confidence intervals
 
 
